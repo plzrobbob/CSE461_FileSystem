@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\cse 461 lab stuff\cse461labs\cse461labs\filesys.h(57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\cse 461 lab stuff\cse461labs\cse461labs\filesys.h(61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\cse 461 lab stuff\cse461labs\cse461labs\filesys.h(72): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\cse 461 lab stuff\cse461labs\cse461labs\filesys.h(74): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\cse 461 lab stuff\cse461labs\cse461labs\main.cpp(34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\cse 461 lab stuff\cse461labs\cse461labs\main.cpp(38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CSE461Labs.vcxproj -> C:\CSE 461 lab stuff\CSE461Labs\x64\Debug\CSE461Labs.exe

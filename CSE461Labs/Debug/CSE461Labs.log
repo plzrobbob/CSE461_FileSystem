@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\cse 461 lab stuff\cse461labs\sdisk.h(125): warning C4018: '<': signed/unsigned mismatch
+c:\cse 461 lab stuff\cse461labs\filesys.h(160): warning C4018: '<=': signed/unsigned mismatch
+c:\cse 461 lab stuff\cse461labs\filesys.h(177): warning C4018: '<': signed/unsigned mismatch
+c:\cse 461 lab stuff\cse461labs\filesys.h(314): warning C4018: '<': signed/unsigned mismatch
+c:\cse 461 lab stuff\cse461labs\filesys.h(444): warning C4018: '<': signed/unsigned mismatch
+c:\cse 461 lab stuff\cse461labs\shell.h(74): warning C4018: '<': signed/unsigned mismatch
+c:\cse 461 lab stuff\cse461labs\shell.h(92): warning C4018: '<': signed/unsigned mismatch
+c:\cse 461 lab stuff\cse461labs\main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\cse 461 lab stuff\cse461labs\main.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\cse 461 lab stuff\cse461labs\main.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  CSE461Labs.vcxproj -> C:\CSE 461 lab stuff\CSE461Labs\Debug\CSE461Labs.exe
